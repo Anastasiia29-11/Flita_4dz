@@ -54,7 +54,7 @@ int main(void) {
     printf("Введите ребра в формате (Вершина 1 - Вершина 2) > ");
     for (int i = 0; i < m; ++i) { 
         scanf("%d - %d", &nn, &mm);
-        if (nn != mm) { // Если не петля
+        if (nn != mm) { 
             table[nn - 1][mm - 1]++;
             table[mm - 1][nn - 1]++;
         }
