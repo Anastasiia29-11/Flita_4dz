@@ -44,3 +44,4 @@ for (int i = 0; i < n; ++i) { // Считае количество ребер у
 ![](https://github.com/Anastasiia29-11/Flita_4dz/blob/main/lp6.png)
 
 # Результаты работы:
+![](https://github.com/Anastasiia29-11/Flita_4dz/blob/main/rez%20(2).png)
