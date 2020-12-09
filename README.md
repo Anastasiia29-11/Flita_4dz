@@ -40,8 +40,7 @@ for (int i = 0; i < n; ++i) { // Считае количество ребер у
         }
     }
  ```  
-Структурная схема алгоритма:
-(https://github.com/Anastasiia29-11/Flita_4dz/blob/main/lp6.png)
+# Структурная схема алгоритма:
+![](https://github.com/Anastasiia29-11/Flita_4dz/blob/main/lp6.png)
 
- Структурная схема алгоритма
- Результаты работы:
+# Результаты работы:
